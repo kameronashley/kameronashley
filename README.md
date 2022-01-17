@@ -9,13 +9,13 @@
 <!-- I'm excited to combine my years of B2B work experience and strong communication skills with my new expertise in programming to launch a new career as a developer!  -->
 <p align="center">
   <samp>
- Hi there! My name is Garrett Dick and I am a Full-Stack Jr. Software Developer from Houston,TX. I graduated from Flatiron School's full-immersive software engineering bootcamp in January 2022 and have a passion for applying new technologies as well as Nancy Drew-like skills for technical problem solving. With a background in IT and CRM Programing, I've collaborated cross-platform intergration for user front-end programs ensuring ease of use for B2B.
+ Hello! My name is Kameron Ashley and I am a Full-Stack Jr. Software Developer from Bremerton, WA. I graduated from Flatiron School's full-immersive software engineering bootcamp in January 2022 and have a passion for learning and exploring new technologies along with using my curiosity to lead my endeavors! With a background primarily in customer service, I've mastered communication and soft skills in order to be the catalyst in any company's collaborative progress and success! Now bolstered with the full stack skills I've learned through Flatiron, I'm ready to dive into tech, continue learning, and continue developing my skills!
   </samp>
   </p>
   <br>
   <p align="center">
    <samp>
-   When I'm not coding, you can find me gaming, camping, or spending time with my family.
+   When I'm not coding, you can find me working out, gaming, or playing with my dog, Koda.
     </samp>
   <br>
   <br><br>
@@ -42,17 +42,17 @@
 <h2 align="center"> Blogs</h2>
 <h5 align="center"> Published Writer for Geek Culture, CodeX and NerdForTech</h5>
 <p align="center" align='right'>
-  <a target="_blank" href="https://medium.com/@garrettd0511">
+  <a target="_blank" href=https://medium.com/@kameronashley>
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <img height="100%" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-- :telescope: I'm currently working on JS/React applications with a backend set up in Ruby
-- :seedling: I'm currently learning Redux
+- :telescope: I'm currently working on tweaking my projects and deploying them
+- :seedling: I'm currently learning Python
 - :speech_balloon: Ask me about anything!
-- :crown: Fun fact: Bob Ross is my spirit aniaml.
+- :crown: Fun fact: I have a black belt in Tae Kwan Do
 ## Skills & Experience
-Ruby - Ruby on Rails - SQL - JavaScript - React - HTML - CSS - Figma
+Ruby - Ruby on Rails - SQL - JavaScript - React - HTML - CSS - API Integration, Object Oriented Programming, Git, jQuery, Algorithmic Problem Solving, Node.js, Sinatra
 <!-- ## Let's Connect! -->
 <!--  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Apang20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avelon-pang-82327360//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AvelonP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://avelonpang.medium.com/)
