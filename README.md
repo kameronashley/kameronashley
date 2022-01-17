@@ -47,10 +47,12 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <img height="100%" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-- :telescope: I'm currently working on tweaking my projects and deploying them
-- :seedling: I'm currently learning Python
-- :speech_balloon: Ask me about anything!
-- :crown: Fun fact: I have a black belt in Tae Kwan Do
+<ul> 
+  <li>:telescope: I'm currently working on tweaking my projects and deploying them</li>
+  <li>:seedling: I'm currently learning Python</li>
+  <li>:speech_balloon: Ask me about anything!</li>
+  <li>🥋 Fun fact: I have a black belt in Tae Kwan Do</li>
+</ul>
 
 <h3> Skills & Experience </h3>
 Ruby - Ruby on Rails - SQL - JavaScript - React - HTML - CSS - API Integration, Object Oriented Programming, Git, jQuery, Algorithmic Problem Solving, Node.js, Sinatra
