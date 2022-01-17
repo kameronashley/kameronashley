@@ -51,7 +51,8 @@
 - :seedling: I'm currently learning Python
 - :speech_balloon: Ask me about anything!
 - :crown: Fun fact: I have a black belt in Tae Kwan Do
-## Skills & Experience
+
+<h3> Skills & Experience </h3>
 Ruby - Ruby on Rails - SQL - JavaScript - React - HTML - CSS - API Integration, Object Oriented Programming, Git, jQuery, Algorithmic Problem Solving, Node.js, Sinatra
 <!-- ## Let's Connect! -->
 <!--  
